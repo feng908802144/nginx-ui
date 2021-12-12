@@ -1,4 +1,4 @@
-# nginx ui
+# nginx ui  在线修改 Nginx 配置的服务。总的来说还是能减少修改配置出错的概率，而且不用面对漆黑枯燥的命令行了
 
 ![Docker Image CI](https://github.com/schenkd/nginx-ui/workflows/Docker%20Image%20CI/badge.svg)
 
